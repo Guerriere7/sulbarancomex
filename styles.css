@@ -4,7 +4,7 @@
 /* Variables CSS */
 :root {
     --primary-color: #9209CC;
-    --secondary-color: #B7C3CC;
+    --secondary-color: #E6F4FF;
     --dark-color: #44494C;
     --light-color: #C5B7CC;
     --white: #ffffff;
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 3px 15px;
 }
 
 /* Header Styles */
